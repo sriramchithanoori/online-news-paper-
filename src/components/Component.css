@@ -1,0 +1,23 @@
+.gap{
+    position:absolute;
+     top:50px;
+     
+     
+}
+.pad{
+    border-radius: 3px;
+}
+   
+  .left-component { 
+    left: 180px;
+    width: 90%; 
+  } 
+   
+  .right-component { 
+    position:absolute;
+    top:80px;
+    left:10px;
+    width: 11%; 
+
+  } 
+ 
